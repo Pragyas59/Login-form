@@ -22,9 +22,3 @@ These instructions will help you get a copy of the project up and running on you
 
 - Web browser (e.g., Chrome, Firefox, Safari)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/login-form.git
